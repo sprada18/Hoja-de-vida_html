@@ -1,0 +1,65 @@
+<html>
+<html>
+<head>
+<title>Hoja de Vida</title>
+</head>
+
+<body>
+
+<h1>Shirley Dhayanna Prada Melo</h1>
+<h3>Est. Ingeniería de Software</h3>
+
+<hr>
+
+<h2>CONTACTO</h2>
+<p><b>Teléfono:</b> (304) 5677583</p>
+<p><b>Correo:</b> sdprada@ucundinamarca.edu.co</p>
+<p><b>Identificación:</b> C.C. 1070591598</p>
+<p><b>Ciudad:</b> Girardot, Cundinamarca</p>
+
+<hr>
+
+<h2>PERFIL PROFESIONAL</h2>
+<p>
+Estudiante de Ingeniería de Software con interés en el desarrollo de software y el análisis de datos. Me caracterizo por ser responsable, organizada y con capacidad para aprender nuevas tecnologías. Tengo conocimientos básicos en programación, lógica algorítmica y desarrollo web.
+</p>
+
+<hr>
+
+<h2>FUNCIONES Y HABILIDADES</h2>
+<ul>
+<li>Resolución de problemas.</li>
+<li>Organización y responsabilidad.</li>
+<li>Desarrollo de proyectos académicos.</li>
+<li>Comunicación y trabajo colaborativo.</li>
+</ul>
+
+<hr>
+
+<h2>EXPERIENCIA LABORAL</h2>
+<p><b>2023 - 2023</b></p>
+<p>Restaurante el Caldero</p>
+<p>Mesera</p>
+
+<p><b>2024 - 2026</b></p>
+<p>Taller Exostos Dago</p>
+<p>Asistente</p>
+
+<hr>
+
+<h2>FORMACIÓN ACADÉMICA</h2>
+<p>2023</p>
+<p>Bachiller Academico</p>
+<p>Institución Educativa Policarpa Salavarrieta </p>
+<p>2022-203</p>
+<p>Tecnico Operación Turistica Local</p>
+<p>SENA</p>
+
+<hr>
+
+<h2>REFERENCIAS</h2>
+<p>Yaniri Melo - (311) 835-6784</p>
+<p>Gina Leal - (311) 884-6955</p>
+
+</body>
+</html>
